@@ -1,6 +1,6 @@
 # Pacman1.0
 
-Teaching clone of Pacman
+Educational Pacman Clone
 
 ##The Goal##
 I want to create an educational version of pacman from start to finish. We are going to do this in Vanilla Javascript and later on build it in react. This tutorial is intended for those who have a basic understanding of html and are looking to challenge themselves. I will go over very basics and lead up into more advanced material.
